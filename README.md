@@ -1,0 +1,2 @@
+# CurseOfAces
+card game rules
