@@ -1,34 +1,35 @@
 # CurseOfAces
 
+
 ## General description
 
-CurseOfAces is card game
+CurseOfAces is a card game.
 
-Deck used for the game include 36 cards - 6 to 10, J, Q, K and A in four suits.
+The deck used for this game consists of 36 cards - 6 to 10, J, Q, K and A in four suits.
 
 Number of players may be 2, 3, 4.
 
 
 ## Gameplay
 
-All players start game with 6 cards each.
+All players start the game with 6 cards each one.
 
 Players make their moves in the clockwise order.
 
-Player attacks his clockwise neighbour sequentially with some of his cards. 
-Attacked must beat the cards played by attacker with his own cards. If 
-attacked player is not able to beat all the cards played by attacker he 
-collects all the cards played during the current attack episode and loose 
-his move. If attacked player withstand an attack, cards played during an 
-episode leave the game field and make the next move.
+Player attacks the clockwise neighbour with some of available cards sequentially. 
+An attacked player must beat all the cards played by an attacker - see "Defence rules". 
+An attacker may start the move with any available card, 
+but only the cards of values already present on the table during the current 
+move may be used to continue an attack.
 
-Attacker may start an attack with any of his cards, but he can continue attack 
-only with the cards of values already present on the table during the current 
-attack.
+If an attacked player withstand an attack, then all the cards played during the current 
+move leave the game field and an attacked player makes the next move. 
+If attacked player is not able to beat all the cards played by an attacker, then he/she 
+gathers all the cards played during the current move and loose the move.
 
-After the game episode players refill their card sets up to 6 cards, in case 
-the deck consists of sufficient number of cards. If number of cards appear not 
-to be sufficient, players refill their cards sets presumably to achieve equal 
+After the move players refill their card sets up to 6 cards, in case 
+the deck consists of sufficient number of cards. If the number of cards in the appears 
+not to be sufficient, players refill their cards sets presumably to achieve equal 
 number of cards. If it is not possible, the player to be attacked next recieve 
 an extra card.
 
